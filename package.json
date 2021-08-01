@@ -1,0 +1,11 @@
+{
+  "name": "Productiveness",
+  "version": "1.0.0",
+  "repository": "https://github.com/ruxxzebre/Productiveness",
+  "author": "ruxxzebre <paullaboratory@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
